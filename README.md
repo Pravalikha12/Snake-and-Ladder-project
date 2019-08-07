@@ -32,3 +32,9 @@ One dimensional array
 The indices are considered as a square on the board. The value of the array at each position indicates the square the player would reach if the player lands on that index.
 1D array is space efficient against the 2D array. 
 Though expressing the logic of the game in a 1D array is difficult, its implementation is easier than 2D array.
+
+IMAGES:
+
+1. MENU PAGE 
+
+![MENU PAGE](imagesFolder/menu.png?raw=true "MENU PAGE")
